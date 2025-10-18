@@ -1,2 +1,3 @@
 # Ideas
 Draft weekly digest
+Apply modern flexbox/grid techniques instead of floats
